@@ -1,16 +1,25 @@
 # Minty-Fresh
-A site that catalogues and displays a user's record collection
-### By Luke Bertram and Lew Davidson
-
-## Description
 
 A site utilizing, SASS, CSS, and JavaScript to take in, display, and scroll through a user's record collection. This site features hard-coded data with room to integrate a database or API call into it.
 
-Technologies Used:
-* CSS
-* HTML
-* SASS
-* Atom - Editor
-* JavaScript
+## Getting Started
 
-This project was made at Epicodus by two students.
+* clone the repo
+* open in the web browser of your choice
+
+### Prerequisites
+
+```
+A good code editor - I use Atom
+```
+
+## Authors
+
+* **Lew Davidson**  - [Lew Davidson](https://github.com/lewdavidson)
+* **Luke Bertram**  - [Luke Bertram](https://github.com/lukebertram)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This proaject was made by two students at Epicodus.
+
